@@ -1,0 +1,1 @@
+<footer>Academic project · PHP &amp; MySQL</footer></body></html>
